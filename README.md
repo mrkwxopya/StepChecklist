@@ -24,7 +24,7 @@ Fix columns can also be deleted directly from their own column header.
 
 Add a screenshot here:
 
-![StepChecklist Screenshot](./docs/screenshot.png)
+![StepChecklist Screenshot](./screenshot.png)
 
 ---
 
